@@ -25,7 +25,6 @@ public class CPUThread extends Thread {
         _handler = $h;
     }
 
-
     @Override
     public void run() {
         super.run();
